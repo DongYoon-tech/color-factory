@@ -1,0 +1,10 @@
+.ColorList-link a{
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 10px;
+}
+.ColorList-link{
+    margin: 25px;
+}

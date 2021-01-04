@@ -1,0 +1,17 @@
+.ColorDetail{
+    height: 100vh;
+}
+
+.ColorDetail p{
+    margin: 0;
+    padding-top: 100px;
+    color: white;
+    font-size: 100px;
+    font-weight: bold
+}
+.ColorDetail a{
+
+    color: white;
+    font-size: 50px;
+    font-weight: bold
+}

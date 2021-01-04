@@ -1,0 +1,19 @@
+.NavBar {
+    background-color: black;
+    padding: 2rem;
+}
+
+.NavBar h1{
+    color: white;
+    padding: 0;
+}
+
+.NavBar a{
+    color: white;
+    font-size: 20px;
+    border: 2px solid white;
+    padding: 10px;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
